@@ -1,0 +1,27 @@
+Project Planning (Project 4 - Predicting WNV)
+
+Deliverables
+1) GitHub Repo
+  - Set-up (Jia Chi)
+  - Uploading of documents (All)
+
+2) Project planning (All)
+
+3) Jupyter Notebook
+  a) Business Problem (All)
+  b) Data Cleaning & Preparation (Kelvyn)
+    - Train/Test dataset
+    - Weather dataset
+    - Spray dataset
+    - Merging
+  c) EDA & Feature Engineering (Willy)
+    - EDA of Train/Test/Weather dataset
+    - EDA of Spray dataset
+    - Feature Engineering
+  d) Modeling & Key Findings (Jia Chi)
+    - Model assessment and Kaggle Submission
+    - Data interpretation
+    - Key Finding and Recommendations
+
+4) Google Slides
+  - Presentation (All)
